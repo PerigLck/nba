@@ -1,0 +1,66 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Where?,date,matchup,Q1,Q2,Q3,Q4,Q1 adversary,Q2 adversary,Q3 adversary,Q4 adversary
+1,home,2022-02-09,CHA vs. CHI,29,16,31,33,28,30,31,32
+2,home,2022-02-07,CHA vs. TOR,21,20,34,26,35,21,24,36
+3,home,2022-02-05,CHA vs. MIA,23,28,8,27,31,15,35,23
+4,home,2022-02-04,CHA vs. CLE,31,15,19,36,22,30,24,26
+5,ext,2022-02-02,CHA @ BOS,22,31,25,29,27,27,34,25
+6,home,2022-01-30,CHA vs. LAC,25,22,29,14,24,27,33,31
+7,home,2022-01-28,CHA vs. LAL,31,34,22,30,21,28,36,29
+8,ext,2022-01-26,CHA @ IND,33,38,42,45,36,34,24,32
+9,ext,2022-01-25,CHA @ TOR,27,34,25,29,39,37,29,20
+10,home,2022-01-23,CHA vs. ATL,22,22,22,25,30,25,30,28
+11,home,2022-01-21,CHA vs. OKC,37,32,24,28,20,32,23,23
+12,ext,2022-01-19,CHA @ BOS,25,31,30,25,27,21,26,28
+13,ext,2022-01-17,CHA @ NYK,34,28,24,11,23,21,23,20
+14,home,2022-01-14,CHA vs. ORL,36,27,28,18,35,26,27,28
+15,ext,2022-01-12,CHA @ PHI,34,30,21,24,35,15,26,22
+16,home,2022-01-10,CHA vs. MIL,28,19,36,23,19,29,26,25
+17,home,2022-01-08,CHA vs. MIL,27,20,42,25,29,12,34,31
+18,home,2022-01-05,CHA vs. DET,37,28,35,40,19,32,24,36
+19,ext,2022-01-03,CHA @ WAS,25,39,26,31,38,18,28,40
+20,home,2022-01-02,CHA vs. PHX,27,20,27,25,36,37,33,27
+21,ext,2021-12-29,CHA @ IND,34,37,19,26,27,30,25,26
+22,home,2021-12-27,CHA vs. HOU,33,33,34,27,29,21,20,29
+23,ext,2021-12-23,CHA @ DEN,27,25,25,38,26,39,29,13
+24,ext,2021-12-20,CHA @ UTA,16,25,27,34,35,19,26,32
+25,ext,2021-12-19,CHA @ PHX,15,32,33,26,37,32,39,29
+26,ext,2021-12-17,CHA @ POR,24,31,31,30,41,40,22,22
+27,ext,2021-12-15,CHA @ SAS,46,27,37,21,31,26,25,33
+28,ext,2021-12-13,CHA @ DAL,20,23,26,27,37,35,21,29
+29,home,2021-12-10,CHA vs. SAC,37,32,29,26,36,37,28,24
+30,home,2021-12-08,CHA vs. PHI,26,27,28,25,26,25,33,28
+31,home,2021-12-06,CHA vs. PHI,34,28,34,28,23,44,28,24
+32,ext,2021-12-05,CHA @ ATL,30,38,31,31,30,31,31,35
+33,ext,2021-12-01,CHA @ MIL,41,27,27,30,25,35,37,30
+34,ext,2021-11-29,CHA @ CHI,31,27,27,34,30,39,38,29
+35,ext,2021-11-27,CHA @ HOU,30,41,28,36,43,30,37,25
+36,home,2021-11-26,CHA vs. MIN,30,38,33,34,28,30,25,32
+37,ext,2021-11-24,CHA @ ORL,24,28,30,24,28,21,28,25
+38,ext,2021-11-22,CHA @ WAS,26,33,24,26,27,23,23,30
+39,ext,2021-11-20,CHA @ ATL,21,27,29,28,25,35,29,26
+40,home,2021-11-19,CHA vs. IND,27,36,35,23,22,26,37,33
+41,home,2021-11-17,CHA vs. WAS,24,21,30,22,29,22,14,22
+42,home,2021-11-14,CHA vs. GSW,30,27,30,19,27,30,32,17
+43,home,2021-11-12,CHA vs. NYK,18,28,34,24,34,21,21,20
+44,ext,2021-11-10,CHA @ MEM,34,26,21,37,36,16,26,30
+45,ext,2021-11-08,CHA @ LAL,26,34,27,28,29,32,33,21
+46,ext,2021-11-07,CHA @ LAC,39,19,29,19,31,33,28,31
+47,ext,2021-11-05,CHA @ SAC,22,31,36,21,41,33,32,34
+48,ext,2021-11-03,CHA @ GSW,26,26,15,25,21,32,27,34
+49,home,2021-11-01,CHA vs. CLE,21,28,27,34,40,25,23,25
+50,home,2021-10-31,CHA vs. POR,27,26,36,36,29,31,28,25
+51,ext,2021-10-29,CHA @ MIA,22,24,29,24,33,31,20,30
+52,ext,2021-10-27,CHA @ ORL,31,33,27,29,31,30,32,18
+53,home,2021-10-25,CHA vs. BOS,33,33,31,25,33,35,26,28
+54,ext,2021-10-24,CHA @ BKN,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+55,ext,2021-10-22,CHA @ CLE,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+56,home,2021-10-20,CHA vs. IND,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+57,home,2021-10-13,CHA vs. DAL,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+58,ext,2021-10-11,CHA @ MIA,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+59,home,2021-10-07,CHA vs. MEM,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+60,ext,2021-10-04,CHA @ OKC,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+61,ext,2021-08-16,CHA @ CHI,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+62,ext,2021-08-14,CHA @ TOR,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+63,home,2021-08-12,CHA vs. SAS,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
+64,ext,2021-08-09,CHA @ SAC,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found
